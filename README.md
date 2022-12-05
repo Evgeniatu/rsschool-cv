@@ -1,4 +1,4 @@
-# [rsschool-cv] (адрес "https://evgeniatu.github.io/rsschool-cv/cv")
+# rsschool-cv
 # Atutova Evgenia
 * Phone number: +79149589418
 * Email: eugeneatutova@gamil.com
